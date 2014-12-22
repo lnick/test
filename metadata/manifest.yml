@@ -6,7 +6,7 @@ Version: '2.1.1'
 License: GNU GENERAL PUBLIC LICENSE
 License-Url: 
 Vendor: Shekhar Gulati
-Cartridge-Version: 0.0.1
+Cartridge-Version: 0.0.2
 Cartridge-Vendor: neo4jln
 Cartridge-Subdomain: neolnick
 Source-Url: https://github.com/jelastic-public-cartridges/openshift-origin-cartridge-neo4j-v21.git
