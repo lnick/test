@@ -9,7 +9,7 @@ Vendor: Shekhar Gulati
 Cartridge-Version: 0.0.2
 Cartridge-Vendor: neo4jln
 Cartridge-Subdomain: neolnick
-Source-Url: https://github.com/jelastic-public-cartridges/openshift-origin-cartridge-neo4j-v21.git
+Source-Url: https://github.com/lnick/test.git
 Categories:
   - service
   - database
