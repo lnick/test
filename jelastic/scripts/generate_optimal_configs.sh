@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-SED=$(which sed);
+# SED=$(which sed);
 
 #
 # config optimizer for neo4j
