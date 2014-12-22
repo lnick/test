@@ -1,7 +1,7 @@
 Name: neo4j-lnick
 Cartridge-Short-Name: NEO4JLN
 Display-Name: NEO4J
-Description: "Neo4j is an open-source, high-performance, enterprise-grade NOSQL graph database."
+Description: "Neo4jLN is an open-source, high-performance, enterprise-grade NOSQL graph database."
 Version: '2.1'
 License: GNU GENERAL PUBLIC LICENSE
 License-Url: 
