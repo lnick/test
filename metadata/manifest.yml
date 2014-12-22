@@ -43,7 +43,7 @@ Cart-Data:
     Type: environment
     Description: "Unique ID which identified the gear. This value changes between gears."
 Provides:
-  - neo4jln-2.1
+  - neo4jln-2.1.1
   - "neo4jln"
 Scaling:
   Min: 1
